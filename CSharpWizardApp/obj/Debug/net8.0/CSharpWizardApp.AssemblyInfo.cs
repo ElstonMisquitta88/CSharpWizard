@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpWizardApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b17cfe6195d7c5849f708aec7d909ae57ff18627")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9267b6785d46daa3ac82038d56784bb5de620c83")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpWizardApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpWizardApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
