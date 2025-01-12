@@ -1,4 +1,4 @@
-# CSharpWizard
+# C#Wizard
 C# Wizard Take Home Test
 
 Steps to Run
